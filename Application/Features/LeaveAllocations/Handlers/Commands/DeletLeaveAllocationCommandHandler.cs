@@ -1,6 +1,6 @@
 ﻿using Application.Exceptions;
 using Application.Features.LeaveAllocations.Requests;
-using Application.Persistence.Contracts;
+using Application.Contracts.Persistence;
 using AutoMapper;
 using MediatR;
 using System;

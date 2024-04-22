@@ -1,4 +1,5 @@
-﻿using Application.Persistence.Contracts;
+﻿
+using Application.Contracts.Persistence;
 using FluentValidation;
 using System;
 using System.Collections.Generic;

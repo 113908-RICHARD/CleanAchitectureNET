@@ -9,3 +9,15 @@ C:\Users\Genaro\source\repos\TrevoirWillams_CleanArch\Domain\obj\Debug\net8.0\Do
 C:\Users\Genaro\source\repos\TrevoirWillams_CleanArch\Domain\obj\Debug\net8.0\refint\Domain.dll
 C:\Users\Genaro\source\repos\TrevoirWillams_CleanArch\Domain\obj\Debug\net8.0\Domain.pdb
 C:\Users\Genaro\source\repos\TrevoirWillams_CleanArch\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Genaro\Documents\GitHub\CleanAchitectureNET\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Genaro\Documents\GitHub\CleanAchitectureNET\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Genaro\Documents\GitHub\CleanAchitectureNET\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Genaro\Documents\GitHub\CleanAchitectureNET\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genaro\Documents\GitHub\CleanAchitectureNET\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Genaro\Documents\GitHub\CleanAchitectureNET\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Genaro\Documents\GitHub\CleanAchitectureNET\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Genaro\Documents\GitHub\CleanAchitectureNET\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\Genaro\Documents\GitHub\CleanAchitectureNET\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Genaro\Documents\GitHub\CleanAchitectureNET\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Genaro\Documents\GitHub\CleanAchitectureNET\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Genaro\Documents\GitHub\CleanAchitectureNET\Domain\obj\Debug\net8.0\ref\Domain.dll

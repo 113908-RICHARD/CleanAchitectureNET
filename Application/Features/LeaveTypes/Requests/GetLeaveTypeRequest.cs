@@ -11,9 +11,6 @@ namespace Application.Features.LeaveTypes.Requests
     public class GetLeaveTypeRequest:IRequest<LeaveTypeDto>
     {
         public int _Id { get; set; }
-        public GetLeaveTypeRequest(int Id)
-        {
-            _Id = Id;
-        }
+       
     }
 }

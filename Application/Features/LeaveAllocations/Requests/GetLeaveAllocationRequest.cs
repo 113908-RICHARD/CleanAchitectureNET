@@ -13,9 +13,6 @@ namespace Application.Features.LeaveRequests.Requests
     {
         public int _Id { get; set; }
 
-        public GetLeaveAllocationRequest(int Id)
-        {
-            _Id = Id;
-        }
+       
     }
 }

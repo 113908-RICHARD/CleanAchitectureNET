@@ -3,48 +3,240 @@
   "WorkspaceRootPath": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\features\\leaveallocations\\handlers\\commands\\createleaveallocationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\features\\leaveallocations\\handlers\\commands\\createleaveallocationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BB0465C-E313-4064-BC2B-24807B854D75}|API\\API.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\api\\controllers\\leaverequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB0465C-E313-4064-BC2B-24807B854D75}|API\\API.csproj|solutionrelative:api\\controllers\\leaverequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\features\\leaverequests\\handlers\\commands\\createleaverequestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\features\\leaverequests\\handlers\\commands\\createleaverequestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BB0465C-E313-4064-BC2B-24807B854D75}|API\\API.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\api\\controllers\\leavetypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB0465C-E313-4064-BC2B-24807B854D75}|API\\API.csproj|solutionrelative:api\\controllers\\leavetypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB0465C-E313-4064-BC2B-24807B854D75}|API\\API.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\api\\controllers\\leaveallocationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB0465C-E313-4064-BC2B-24807B854D75}|API\\API.csproj|solutionrelative:api\\controllers\\leaveallocationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\features\\leaveallocations\\requests\\createleaveallocationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\features\\leaveallocations\\requests\\createleaveallocationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\features\\leavetypes\\handlers\\commands\\createleavetyperequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\features\\leavetypes\\handlers\\commands\\createleavetyperequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\responses\\basecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\responses\\basecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\features\\leavetypes\\requests\\createleavetyperequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\features\\leavetypes\\requests\\createleavetyperequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\features\\leaverequests\\requests\\createleaverequestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\features\\leaverequests\\requests\\createleaverequestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\dtos\\leavetype\\createleavetypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\dtos\\leavetype\\createleavetypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\responses\\basecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\responses\\basecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\features\\leaveallocations\\requests\\getleaveallocationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\features\\leaveallocations\\requests\\getleaveallocationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\features\\leaveallocations\\handlers\\commands\\deletleaveallocationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\features\\leaveallocations\\handlers\\commands\\deletleaveallocationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BB0465C-E313-4064-BC2B-24807B854D75}|API\\API.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB0465C-E313-4064-BC2B-24807B854D75}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\features\\leaverequests\\handlers\\commands\\deleteleaverequestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\features\\leaverequests\\handlers\\commands\\deleteleaverequestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B598D10F-BFF3-45A7-B784-BFC89AA791F6}|Domain\\Domain.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\domain\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B598D10F-BFF3-45A7-B784-BFC89AA791F6}|Domain\\Domain.csproj|solutionrelative:domain\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\dtos\\leavetype\\leavetypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\dtos\\leavetype\\leavetypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\features\\leavetypes\\handlers\\commands\\upateleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\features\\leavetypes\\handlers\\commands\\upateleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\features\\leavetypes\\requests\\getleavetyperequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\features\\leavetypes\\requests\\getleavetyperequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84BCDC9-8DF3-40CA-B56C-F52E8AC1BBF4}|Persistence\\Persistence.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\persistence\\repositories\\leavemanagementdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84BCDC9-8DF3-40CA-B56C-F52E8AC1BBF4}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\leavemanagementdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB0465C-E313-4064-BC2B-24807B854D75}|API\\API.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2BB0465C-E313-4064-BC2B-24807B854D75}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84BCDC9-8DF3-40CA-B56C-F52E8AC1BBF4}|Persistence\\Persistence.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\persistence\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F84BCDC9-8DF3-40CA-B56C-F52E8AC1BBF4}|Persistence\\Persistence.csproj|solutionrelative:persistence\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84BCDC9-8DF3-40CA-B56C-F52E8AC1BBF4}|Persistence\\Persistence.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\persistence\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F84BCDC9-8DF3-40CA-B56C-F52E8AC1BBF4}|Persistence\\Persistence.csproj|solutionrelative:persistence\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84BCDC9-8DF3-40CA-B56C-F52E8AC1BBF4}|Persistence\\Persistence.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\persistence\\persistenceserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84BCDC9-8DF3-40CA-B56C-F52E8AC1BBF4}|Persistence\\Persistence.csproj|solutionrelative:persistence\\persistenceserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84BCDC9-8DF3-40CA-B56C-F52E8AC1BBF4}|Persistence\\Persistence.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84BCDC9-8DF3-40CA-B56C-F52E8AC1BBF4}|Persistence\\Persistence.csproj|solutionrelative:persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D49DE6-E507-4CB7-B781-B0B835B93C7E}|Infrastructure\\Infrastructure.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\infrastructure\\infrastructureservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D49DE6-E507-4CB7-B781-B0B835B93C7E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructureservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84BCDC9-8DF3-40CA-B56C-F52E8AC1BBF4}|Persistence\\Persistence.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\persistence\\repositories\\leavetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84BCDC9-8DF3-40CA-B56C-F52E8AC1BBF4}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\leavetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\dtos\\leaveallocation\\validators\\createleaveallocationdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\dtos\\leaveallocation\\validators\\createleaveallocationdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\dtos\\leaverequest\\leaverequestlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\dtos\\leaverequest\\leaverequestlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\dtos\\leavetype\\validators\\createleavetypedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\dtos\\leavetype\\validators\\createleavetypedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\applicationservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\applicationservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB0465C-E313-4064-BC2B-24807B854D75}|API\\API.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2BB0465C-E313-4064-BC2B-24807B854D75}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D49DE6-E507-4CB7-B781-B0B835B93C7E}|Infrastructure\\Infrastructure.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\infrastructure\\mail\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D49DE6-E507-4CB7-B781-B0B835B93C7E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\mail\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\contracts\\infrastructure\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\contracts\\infrastructure\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\features\\leaverequests\\handlers\\commands\\createleaverequestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\features\\leaverequests\\handlers\\commands\\createleaverequestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\models\\emailsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\models\\emailsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\features\\leavetypes\\handlers\\queries\\getleavetyperequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\features\\leavetypes\\handlers\\queries\\getleavetyperequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\features\\leavetypes\\handlers\\queries\\getleavetypelistrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\features\\leavetypes\\handlers\\queries\\getleavetypelistrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\features\\leaverequests\\handlers\\queries\\getleaverequestrequestlisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\features\\leaverequests\\handlers\\queries\\getleaverequestrequestlisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\features\\leaverequests\\handlers\\queries\\getleaverequestrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\features\\leaverequests\\handlers\\queries\\getleaverequestrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\features\\leaveallocations\\handlers\\queries\\getleaveallocationrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\features\\leaveallocations\\handlers\\queries\\getleaveallocationrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\features\\leaveallocations\\handlers\\queries\\getleaveallocationlistrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\features\\leaveallocations\\handlers\\queries\\getleaveallocationlistrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\dtos\\leaverequest\\validators\\ileaverequestdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\dtos\\leaverequest\\validators\\ileaverequestdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\dtos\\leaverequest\\validators\\createleaverequestdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\dtos\\leaverequest\\validators\\createleaverequestdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\dtos\\leaveallocation\\validators\\ileaveallocationdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\dtos\\leaveallocation\\validators\\ileaveallocationdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\contracts\\persistence\\ileavetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\contracts\\persistence\\ileavetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\contracts\\persistence\\ileaverequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\contracts\\persistence\\ileaverequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\contracts\\persistence\\ileaveallocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\contracts\\persistence\\ileaveallocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\contracts\\persistence\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\contracts\\persistence\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\dtos\\leaverequest\\leaverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\dtos\\leaverequest\\leaverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\dtos\\leaverequest\\ileaverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\dtos\\leaverequest\\ileaverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\dtos\\leaverequest\\createleaverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\dtos\\leaverequest\\createleaverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\dtos\\leaverequest\\changeleaverequestapprovaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\dtos\\leaverequest\\changeleaverequestapprovaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84BCDC9-8DF3-40CA-B56C-F52E8AC1BBF4}|Persistence\\Persistence.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\persistence\\repositories\\leaverequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84BCDC9-8DF3-40CA-B56C-F52E8AC1BBF4}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\leaverequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84BCDC9-8DF3-40CA-B56C-F52E8AC1BBF4}|Persistence\\Persistence.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\persistence\\repositories\\leaveallocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84BCDC9-8DF3-40CA-B56C-F52E8AC1BBF4}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\leaveallocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84BCDC9-8DF3-40CA-B56C-F52E8AC1BBF4}|Persistence\\Persistence.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84BCDC9-8DF3-40CA-B56C-F52E8AC1BBF4}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\features\\leavetypes\\handlers\\commands\\deleteleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\features\\leavetypes\\handlers\\commands\\deleteleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\features\\leavetypes\\handlers\\commands\\createleavetyperequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\features\\leavetypes\\handlers\\commands\\createleavetyperequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\features\\leaverequests\\handlers\\commands\\updateleaverequestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\features\\leaverequests\\handlers\\commands\\updateleaverequestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\features\\leaverequests\\handlers\\commands\\deleteleaverequestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\features\\leaverequests\\handlers\\commands\\deleteleaverequestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\features\\leaveallocations\\handlers\\commands\\updateleaveallocationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\features\\leaveallocations\\handlers\\commands\\updateleaveallocationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\features\\leaveallocations\\handlers\\commands\\deletleaveallocationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\features\\leaveallocations\\handlers\\commands\\deletleaveallocationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\features\\leaveallocations\\handlers\\commands\\createleaveallocationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\features\\leaveallocations\\handlers\\commands\\createleaveallocationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\features\\leaverequests\\requests\\createleaverequestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\features\\leaverequests\\requests\\createleaverequestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,14 +245,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\features\\leavetypes\\handlers\\commands\\upateleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\features\\leavetypes\\handlers\\commands\\upateleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\features\\leaverequests\\handlers\\commands\\updateleaverequestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|solutionrelative:application\\features\\leaverequests\\handlers\\commands\\updateleaverequestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5CACC181-856D-4802-B57A-2CFF5304B7B6}|Application\\Application.csproj|c:\\users\\genaro\\documents\\github\\cleanachitecturenet\\application\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,118 +263,131 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "LeaveAllocationController.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\API\\Controllers\\LeaveAllocationController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\LeaveAllocationController.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\API\\Controllers\\LeaveAllocationController.cs",
+              "RelativeToolTip": "API\\Controllers\\LeaveAllocationController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAD4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T22:47:42.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LeaveTypesController.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\API\\Controllers\\LeaveTypesController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\LeaveTypesController.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\API\\Controllers\\LeaveTypesController.cs",
+              "RelativeToolTip": "API\\Controllers\\LeaveTypesController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T01:29:28.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CreateLeaveAllocationCommand.cs",
               "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveAllocations\\Requests\\CreateLeaveAllocationCommand.cs",
               "RelativeDocumentMoniker": "Application\\Features\\LeaveAllocations\\Requests\\CreateLeaveAllocationCommand.cs",
               "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveAllocations\\Requests\\CreateLeaveAllocationCommand.cs",
               "RelativeToolTip": "Application\\Features\\LeaveAllocations\\Requests\\CreateLeaveAllocationCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABLAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T02:23:08.841Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CreateLeaveTypeRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveTypes\\Requests\\CreateLeaveTypeRequest.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\LeaveTypes\\Requests\\CreateLeaveTypeRequest.cs",
-              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveTypes\\Requests\\CreateLeaveTypeRequest.cs",
-              "RelativeToolTip": "Application\\Features\\LeaveTypes\\Requests\\CreateLeaveTypeRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T02:19:13.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateLeaveRequestCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveRequests\\Handlers\\Commands\\CreateLeaveRequestCommandHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\LeaveRequests\\Handlers\\Commands\\CreateLeaveRequestCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveRequests\\Handlers\\Commands\\CreateLeaveRequestCommandHandler.cs",
-              "RelativeToolTip": "Application\\Features\\LeaveRequests\\Handlers\\Commands\\CreateLeaveRequestCommandHandler.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACsAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T22:31:08.424Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CreateLeaveAllocationCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveAllocations\\Handlers\\Commands\\CreateLeaveAllocationCommandHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\LeaveAllocations\\Handlers\\Commands\\CreateLeaveAllocationCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveAllocations\\Handlers\\Commands\\CreateLeaveAllocationCommandHandler.cs",
-              "RelativeToolTip": "Application\\Features\\LeaveAllocations\\Handlers\\Commands\\CreateLeaveAllocationCommandHandler.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAADAAAAAZAAAA",
+              "Title": "LeaveRequestController.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\API\\Controllers\\LeaveRequestController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\LeaveRequestController.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\API\\Controllers\\LeaveRequestController.cs",
+              "RelativeToolTip": "API\\Controllers\\LeaveRequestController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T22:22:13.838Z",
+              "WhenOpened": "2024-04-22T22:48:26.166Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateLeaveRequestCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveRequests\\Requests\\CreateLeaveRequestCommand.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\LeaveRequests\\Requests\\CreateLeaveRequestCommand.cs",
-              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveRequests\\Requests\\CreateLeaveRequestCommand.cs",
-              "RelativeToolTip": "Application\\Features\\LeaveRequests\\Requests\\CreateLeaveRequestCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T02:15:49.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "BaseCommandResponse.cs",
               "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Responses\\BaseCommandResponse.cs",
               "RelativeDocumentMoniker": "Application\\Responses\\BaseCommandResponse.cs",
               "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Responses\\BaseCommandResponse.cs",
               "RelativeToolTip": "Application\\Responses\\BaseCommandResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T22:37:28.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateLeaveTypeRequestHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveTypes\\Handlers\\Commands\\CreateLeaveTypeRequestHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\LeaveTypes\\Handlers\\Commands\\CreateLeaveTypeRequestHandler.cs",
-              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveTypes\\Handlers\\Commands\\CreateLeaveTypeRequestHandler.cs",
-              "RelativeToolTip": "Application\\Features\\LeaveTypes\\Handlers\\Commands\\CreateLeaveTypeRequestHandler.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAAC0AAAAZAAAA",
+              "DocumentIndex": 5,
+              "Title": "CreateLeaveTypeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveTypes\\Requests\\CreateLeaveTypeRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\LeaveTypes\\Requests\\CreateLeaveTypeRequest.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveTypes\\Requests\\CreateLeaveTypeRequest.cs",
+              "RelativeToolTip": "Application\\Features\\LeaveTypes\\Requests\\CreateLeaveTypeRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T22:19:47.239Z",
+              "WhenOpened": "2024-04-20T02:19:13.245Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DeleteLeaveRequestCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveRequests\\Handlers\\Commands\\DeleteLeaveRequestCommandHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\LeaveRequests\\Handlers\\Commands\\DeleteLeaveRequestCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveRequests\\Handlers\\Commands\\DeleteLeaveRequestCommandHandler.cs",
-              "RelativeToolTip": "Application\\Features\\LeaveRequests\\Handlers\\Commands\\DeleteLeaveRequestCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABMAAAA",
+              "DocumentIndex": 6,
+              "Title": "CreateLeaveTypeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\DTOs\\LeaveType\\CreateLeaveTypeDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\LeaveType\\CreateLeaveTypeDto.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\DTOs\\LeaveType\\CreateLeaveTypeDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\LeaveType\\CreateLeaveTypeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T22:34:11.243Z",
+              "WhenOpened": "2024-04-20T15:47:44.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetLeaveAllocationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveAllocations\\Requests\\GetLeaveAllocationRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\LeaveAllocations\\Requests\\GetLeaveAllocationRequest.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveAllocations\\Requests\\GetLeaveAllocationRequest.cs",
+              "RelativeToolTip": "Application\\Features\\LeaveAllocations\\Requests\\GetLeaveAllocationRequest.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAEwA8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T23:00:45.478Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "DeleteLeaveTypeCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveTypes\\Handlers\\Commands\\DeleteLeaveTypeCommandHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\LeaveTypes\\Handlers\\Commands\\DeleteLeaveTypeCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveTypes\\Handlers\\Commands\\DeleteLeaveTypeCommandHandler.cs",
-              "RelativeToolTip": "Application\\Features\\LeaveTypes\\Handlers\\Commands\\DeleteLeaveTypeCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABKAAAA",
+              "Title": "LeaveRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Domain\\LeaveRequest.cs",
+              "RelativeDocumentMoniker": "Domain\\LeaveRequest.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Domain\\LeaveRequest.cs",
+              "RelativeToolTip": "Domain\\LeaveRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T22:32:38.144Z",
+              "WhenOpened": "2024-04-22T12:59:57.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LeaveTypeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\DTOs\\LeaveType\\LeaveTypeDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\LeaveType\\LeaveTypeDto.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\DTOs\\LeaveType\\LeaveTypeDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\LeaveType\\LeaveTypeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T23:04:32.691Z",
               "EditorCaption": ""
             },
             {
@@ -207,33 +404,644 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DeletLeaveAllocationCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveAllocations\\Handlers\\Commands\\DeletLeaveAllocationCommandHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\LeaveAllocations\\Handlers\\Commands\\DeletLeaveAllocationCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveAllocations\\Handlers\\Commands\\DeletLeaveAllocationCommandHandler.cs",
-              "RelativeToolTip": "Application\\Features\\LeaveAllocations\\Handlers\\Commands\\DeletLeaveAllocationCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "DocumentIndex": 12,
+              "Title": "GetLeaveTypeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveTypes\\Requests\\GetLeaveTypeRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\LeaveTypes\\Requests\\GetLeaveTypeRequest.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveTypes\\Requests\\GetLeaveTypeRequest.cs",
+              "RelativeToolTip": "Application\\Features\\LeaveTypes\\Requests\\GetLeaveTypeRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T22:30:39.707Z",
+              "WhenOpened": "2024-04-21T01:39:43.121Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Persistence\\appsettings.json",
+              "RelativeDocumentMoniker": "Persistence\\appsettings.json",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Persistence\\appsettings.json",
+              "RelativeToolTip": "Persistence\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-21T01:14:24.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T19:03:37.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpateLeaveTypeCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveTypes\\Handlers\\Commands\\UpateLeaveTypeCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\LeaveTypes\\Handlers\\Commands\\UpateLeaveTypeCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveTypes\\Handlers\\Commands\\UpateLeaveTypeCommandHandler.cs",
+              "RelativeToolTip": "Application\\Features\\LeaveTypes\\Handlers\\Commands\\UpateLeaveTypeCommandHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T22:19:30.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Persistence\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Persistence\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Persistence\\appsettings.Development.json",
+              "RelativeToolTip": "Persistence\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-21T01:14:27.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LeaveManagementDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Persistence\\repositories\\LeaveManagementDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Persistence\\repositories\\LeaveManagementDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Persistence\\repositories\\LeaveManagementDbContextFactory.cs",
+              "RelativeToolTip": "Persistence\\repositories\\LeaveManagementDbContextFactory.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T23:51:16.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-20T19:12:04.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAxwCIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T02:35:19.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PersistenceServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Persistence\\PersistenceServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Persistence\\PersistenceServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Persistence\\PersistenceServiceRegistration.cs",
+              "RelativeToolTip": "Persistence\\PersistenceServiceRegistration.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAxwBMAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T12:07:16.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InfrastructureServicesRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Infrastructure\\InfrastructureServicesRegistration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\InfrastructureServicesRegistration.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Infrastructure\\InfrastructureServicesRegistration.cs",
+              "RelativeToolTip": "Infrastructure\\InfrastructureServicesRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T18:45:03.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LeaveTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Persistence\\repositories\\LeaveTypeRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\repositories\\LeaveTypeRepository.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Persistence\\repositories\\LeaveTypeRepository.cs",
+              "RelativeToolTip": "Persistence\\repositories\\LeaveTypeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T19:49:59.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateLeaveAllocationDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\DTOs\\LeaveAllocation\\Validators\\CreateLeaveAllocationDtoValidator.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\LeaveAllocation\\Validators\\CreateLeaveAllocationDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\DTOs\\LeaveAllocation\\Validators\\CreateLeaveAllocationDtoValidator.cs",
+              "RelativeToolTip": "Application\\DTOs\\LeaveAllocation\\Validators\\CreateLeaveAllocationDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:39:50.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LeaveRequestListDto.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\DTOs\\LeaveRequest\\LeaveRequestListDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\LeaveRequest\\LeaveRequestListDto.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\DTOs\\LeaveRequest\\LeaveRequestListDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\LeaveRequest\\LeaveRequestListDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:47:37.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateLeaveTypeDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\DTOs\\LeaveType\\Validators\\CreateLeaveTypeDtoValidator.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\LeaveType\\Validators\\CreateLeaveTypeDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\DTOs\\LeaveType\\Validators\\CreateLeaveTypeDtoValidator.cs",
+              "RelativeToolTip": "Application\\DTOs\\LeaveType\\Validators\\CreateLeaveTypeDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:47:48.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "API.csproj",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-20T19:02:56.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApplicationServicesRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\ApplicationServicesRegistration.cs",
+              "RelativeDocumentMoniker": "Application\\ApplicationServicesRegistration.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\ApplicationServicesRegistration.cs",
+              "RelativeToolTip": "Application\\ApplicationServicesRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T11:48:13.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Infrastructure\\Mail\\EmailSender.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Mail\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Infrastructure\\Mail\\EmailSender.cs",
+              "RelativeToolTip": "Infrastructure\\Mail\\EmailSender.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAABEwCMAAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T18:23:24.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Contracts\\Infrastructure\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "Application\\Contracts\\Infrastructure\\IEmailSender.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Contracts\\Infrastructure\\IEmailSender.cs",
+              "RelativeToolTip": "Application\\Contracts\\Infrastructure\\IEmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T16:00:08.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EmailSetting.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Models\\EmailSetting.cs",
+              "RelativeDocumentMoniker": "Application\\Models\\EmailSetting.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Models\\EmailSetting.cs",
+              "RelativeToolTip": "Application\\Models\\EmailSetting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T17:54:42.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Models\\Email.cs",
+              "RelativeDocumentMoniker": "Application\\Models\\Email.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Models\\Email.cs",
+              "RelativeToolTip": "Application\\Models\\Email.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T16:02:06.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreateLeaveRequestCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveRequests\\Handlers\\Commands\\CreateLeaveRequestCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\LeaveRequests\\Handlers\\Commands\\CreateLeaveRequestCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveRequests\\Handlers\\Commands\\CreateLeaveRequestCommandHandler.cs",
+              "RelativeToolTip": "Application\\Features\\LeaveRequests\\Handlers\\Commands\\CreateLeaveRequestCommandHandler.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAWwEIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T22:31:08.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GetLeaveTypeRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveTypes\\Handlers\\Queries\\GetLeaveTypeRequestHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\LeaveTypes\\Handlers\\Queries\\GetLeaveTypeRequestHandler.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveTypes\\Handlers\\Queries\\GetLeaveTypeRequestHandler.cs",
+              "RelativeToolTip": "Application\\Features\\LeaveTypes\\Handlers\\Queries\\GetLeaveTypeRequestHandler.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAABEwAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:53:18.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GetLeaveTypeListRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveTypes\\Handlers\\Queries\\GetLeaveTypeListRequestHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\LeaveTypes\\Handlers\\Queries\\GetLeaveTypeListRequestHandler.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveTypes\\Handlers\\Queries\\GetLeaveTypeListRequestHandler.cs",
+              "RelativeToolTip": "Application\\Features\\LeaveTypes\\Handlers\\Queries\\GetLeaveTypeListRequestHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:53:12.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GetLeaveRequestRequestListHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveRequests\\Handlers\\Queries\\GetLeaveRequestRequestListHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\LeaveRequests\\Handlers\\Queries\\GetLeaveRequestRequestListHandler.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveRequests\\Handlers\\Queries\\GetLeaveRequestRequestListHandler.cs",
+              "RelativeToolTip": "Application\\Features\\LeaveRequests\\Handlers\\Queries\\GetLeaveRequestRequestListHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:53:07.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetLeaveRequestRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveRequests\\Handlers\\Queries\\GetLeaveRequestRequestHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\LeaveRequests\\Handlers\\Queries\\GetLeaveRequestRequestHandler.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveRequests\\Handlers\\Queries\\GetLeaveRequestRequestHandler.cs",
+              "RelativeToolTip": "Application\\Features\\LeaveRequests\\Handlers\\Queries\\GetLeaveRequestRequestHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:53:02.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GetLeaveAllocationRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveAllocations\\Handlers\\Queries\\GetLeaveAllocationRequestHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\LeaveAllocations\\Handlers\\Queries\\GetLeaveAllocationRequestHandler.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveAllocations\\Handlers\\Queries\\GetLeaveAllocationRequestHandler.cs",
+              "RelativeToolTip": "Application\\Features\\LeaveAllocations\\Handlers\\Queries\\GetLeaveAllocationRequestHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:52:53.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GetLeaveAllocationListRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveAllocations\\Handlers\\Queries\\GetLeaveAllocationListRequestHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\LeaveAllocations\\Handlers\\Queries\\GetLeaveAllocationListRequestHandler.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveAllocations\\Handlers\\Queries\\GetLeaveAllocationListRequestHandler.cs",
+              "RelativeToolTip": "Application\\Features\\LeaveAllocations\\Handlers\\Queries\\GetLeaveAllocationListRequestHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:52:47.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ILeaveRequestDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\DTOs\\LeaveRequest\\Validators\\ILeaveRequestDtoValidator.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\LeaveRequest\\Validators\\ILeaveRequestDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\DTOs\\LeaveRequest\\Validators\\ILeaveRequestDtoValidator.cs",
+              "RelativeToolTip": "Application\\DTOs\\LeaveRequest\\Validators\\ILeaveRequestDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:52:33.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CreateLeaveRequestDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\DTOs\\LeaveRequest\\Validators\\CreateLeaveRequestDtoValidator.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\LeaveRequest\\Validators\\CreateLeaveRequestDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\DTOs\\LeaveRequest\\Validators\\CreateLeaveRequestDtoValidator.cs",
+              "RelativeToolTip": "Application\\DTOs\\LeaveRequest\\Validators\\CreateLeaveRequestDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:51:59.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ILeaveAllocationDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\DTOs\\LeaveAllocation\\Validators\\ILeaveAllocationDtoValidator.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\LeaveAllocation\\Validators\\ILeaveAllocationDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\DTOs\\LeaveAllocation\\Validators\\ILeaveAllocationDtoValidator.cs",
+              "RelativeToolTip": "Application\\DTOs\\LeaveAllocation\\Validators\\ILeaveAllocationDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:51:26.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ILeaveRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Contracts\\Persistence\\ILeaveRequestRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Contracts\\Persistence\\ILeaveRequestRepository.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Contracts\\Persistence\\ILeaveRequestRepository.cs",
+              "RelativeToolTip": "Application\\Contracts\\Persistence\\ILeaveRequestRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T11:56:30.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ILeaveAllocationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Contracts\\Persistence\\ILeaveAllocationRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Contracts\\Persistence\\ILeaveAllocationRepository.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Contracts\\Persistence\\ILeaveAllocationRepository.cs",
+              "RelativeToolTip": "Application\\Contracts\\Persistence\\ILeaveAllocationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:36:10.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ILeaveTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Contracts\\Persistence\\ILeaveTypeRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Contracts\\Persistence\\ILeaveTypeRepository.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Contracts\\Persistence\\ILeaveTypeRepository.cs",
+              "RelativeToolTip": "Application\\Contracts\\Persistence\\ILeaveTypeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:37:13.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Contracts\\Persistence\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Contracts\\Persistence\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Contracts\\Persistence\\IGenericRepository.cs",
+              "RelativeToolTip": "Application\\Contracts\\Persistence\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T02:52:59.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "LeaveRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\DTOs\\LeaveRequest\\LeaveRequestDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\LeaveRequest\\LeaveRequestDto.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\DTOs\\LeaveRequest\\LeaveRequestDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\LeaveRequest\\LeaveRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:47:35.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ILeaveRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\DTOs\\LeaveRequest\\ILeaveRequestDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\LeaveRequest\\ILeaveRequestDto.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\DTOs\\LeaveRequest\\ILeaveRequestDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\LeaveRequest\\ILeaveRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:47:33.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CreateLeaveRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\DTOs\\LeaveRequest\\CreateLeaveRequestDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\LeaveRequest\\CreateLeaveRequestDto.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\DTOs\\LeaveRequest\\CreateLeaveRequestDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\LeaveRequest\\CreateLeaveRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:47:27.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ChangeLeaveRequestApprovalDto.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\DTOs\\LeaveRequest\\ChangeLeaveRequestApprovalDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\LeaveRequest\\ChangeLeaveRequestApprovalDto.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\DTOs\\LeaveRequest\\ChangeLeaveRequestApprovalDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\LeaveRequest\\ChangeLeaveRequestApprovalDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:47:24.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "LeaveRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Persistence\\repositories\\LeaveRequestRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\repositories\\LeaveRequestRepository.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Persistence\\repositories\\LeaveRequestRepository.cs",
+              "RelativeToolTip": "Persistence\\repositories\\LeaveRequestRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T11:47:08.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "LeaveAllocationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Persistence\\repositories\\LeaveAllocationRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\repositories\\LeaveAllocationRepository.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Persistence\\repositories\\LeaveAllocationRepository.cs",
+              "RelativeToolTip": "Persistence\\repositories\\LeaveAllocationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T11:23:00.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Persistence\\repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Persistence\\repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Persistence\\repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T02:49:57.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DeleteLeaveTypeCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveTypes\\Handlers\\Commands\\DeleteLeaveTypeCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\LeaveTypes\\Handlers\\Commands\\DeleteLeaveTypeCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveTypes\\Handlers\\Commands\\DeleteLeaveTypeCommandHandler.cs",
+              "RelativeToolTip": "Application\\Features\\LeaveTypes\\Handlers\\Commands\\DeleteLeaveTypeCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T22:32:38.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CreateLeaveTypeRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveTypes\\Handlers\\Commands\\CreateLeaveTypeRequestHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\LeaveTypes\\Handlers\\Commands\\CreateLeaveTypeRequestHandler.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveTypes\\Handlers\\Commands\\CreateLeaveTypeRequestHandler.cs",
+              "RelativeToolTip": "Application\\Features\\LeaveTypes\\Handlers\\Commands\\CreateLeaveTypeRequestHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T22:19:47.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "UpdateLeaveRequestCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveRequests\\Handlers\\Commands\\UpdateLeaveRequestCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\LeaveRequests\\Handlers\\Commands\\UpdateLeaveRequestCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveRequests\\Handlers\\Commands\\UpdateLeaveRequestCommandHandler.cs",
+              "RelativeToolTip": "Application\\Features\\LeaveRequests\\Handlers\\Commands\\UpdateLeaveRequestCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T22:19:24.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "DeleteLeaveRequestCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveRequests\\Handlers\\Commands\\DeleteLeaveRequestCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\LeaveRequests\\Handlers\\Commands\\DeleteLeaveRequestCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveRequests\\Handlers\\Commands\\DeleteLeaveRequestCommandHandler.cs",
+              "RelativeToolTip": "Application\\Features\\LeaveRequests\\Handlers\\Commands\\DeleteLeaveRequestCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T22:34:11.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
               "Title": "UpdateLeaveAllocationCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveAllocations\\Handlers\\Commands\\UpdateLeaveAllocationCommandHandler.cs",
               "RelativeDocumentMoniker": "Application\\Features\\LeaveAllocations\\Handlers\\Commands\\UpdateLeaveAllocationCommandHandler.cs",
               "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveAllocations\\Handlers\\Commands\\UpdateLeaveAllocationCommandHandler.cs",
               "RelativeToolTip": "Application\\Features\\LeaveAllocations\\Handlers\\Commands\\UpdateLeaveAllocationCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T22:30:57.594Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 56,
+              "Title": "DeletLeaveAllocationCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveAllocations\\Handlers\\Commands\\DeletLeaveAllocationCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\LeaveAllocations\\Handlers\\Commands\\DeletLeaveAllocationCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveAllocations\\Handlers\\Commands\\DeletLeaveAllocationCommandHandler.cs",
+              "RelativeToolTip": "Application\\Features\\LeaveAllocations\\Handlers\\Commands\\DeletLeaveAllocationCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T22:30:39.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CreateLeaveAllocationCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveAllocations\\Handlers\\Commands\\CreateLeaveAllocationCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\LeaveAllocations\\Handlers\\Commands\\CreateLeaveAllocationCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveAllocations\\Handlers\\Commands\\CreateLeaveAllocationCommandHandler.cs",
+              "RelativeToolTip": "Application\\Features\\LeaveAllocations\\Handlers\\Commands\\CreateLeaveAllocationCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T22:22:13.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CreateLeaveRequestCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveRequests\\Requests\\CreateLeaveRequestCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\LeaveRequests\\Requests\\CreateLeaveRequestCommand.cs",
+              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveRequests\\Requests\\CreateLeaveRequestCommand.cs",
+              "RelativeToolTip": "Application\\Features\\LeaveRequests\\Requests\\CreateLeaveRequestCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T02:15:49.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
               "Title": "ValidationException.cs",
               "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Exceptions\\ValidationException.cs",
               "RelativeDocumentMoniker": "Application\\Exceptions\\ValidationException.cs",
@@ -246,46 +1054,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 60,
               "Title": "NotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Exceptions\\NotFoundException.cs",
               "RelativeDocumentMoniker": "Application\\Exceptions\\NotFoundException.cs",
               "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Exceptions\\NotFoundException.cs",
               "RelativeToolTip": "Application\\Exceptions\\NotFoundException.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAA4AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAABOwAgAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T22:06:00.181Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UpateLeaveTypeCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveTypes\\Handlers\\Commands\\UpateLeaveTypeCommandHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\LeaveTypes\\Handlers\\Commands\\UpateLeaveTypeCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveTypes\\Handlers\\Commands\\UpateLeaveTypeCommandHandler.cs",
-              "RelativeToolTip": "Application\\Features\\LeaveTypes\\Handlers\\Commands\\UpateLeaveTypeCommandHandler.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T22:19:30.357Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UpdateLeaveRequestCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveRequests\\Handlers\\Commands\\UpdateLeaveRequestCommandHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\LeaveRequests\\Handlers\\Commands\\UpdateLeaveRequestCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Features\\LeaveRequests\\Handlers\\Commands\\UpdateLeaveRequestCommandHandler.cs",
-              "RelativeToolTip": "Application\\Features\\LeaveRequests\\Handlers\\Commands\\UpdateLeaveRequestCommandHandler.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T22:19:24.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 61,
               "Title": "BadRequestException.cs",
               "DocumentMoniker": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Exceptions\\BadRequestException.cs",
               "RelativeDocumentMoniker": "Application\\Exceptions\\BadRequestException.cs",
