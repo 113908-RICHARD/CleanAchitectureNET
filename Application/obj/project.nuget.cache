@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "z5RdLtZBYRbJo7G3E9T7665cMISZcNKLDtwpJjBaUMGhUfd3AbsumS6vyijhhP8eGEawfUD2UfM58ovhhFU94w==",
+  "dgSpecHash": "HUzA8wHjVLJS3FXqsex9o/2r32DTc6PnSjreWAfcgKAJvQF9lHdmz3f3JCfwln61gDGFHgocErp1lZoWkMXRUQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Genaro\\Documents\\GitHub\\CleanAchitectureNET\\Application\\Application.csproj",
   "expectedPackageFiles": [
@@ -9,22 +9,10 @@
     "C:\\Users\\Genaro\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.0\\fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
     "C:\\Users\\Genaro\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\Genaro\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
-    "C:\\Users\\Genaro\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "C:\\Users\\Genaro\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Genaro\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\Genaro\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\Genaro\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1608",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Detected package version outside of dependency constraint: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 requires MediatR (>= 11.0.0 && < 12.0.0) but version MediatR 12.2.0 was resolved.",
-      "libraryId": "MediatR",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }

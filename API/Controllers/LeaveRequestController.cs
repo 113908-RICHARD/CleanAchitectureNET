@@ -21,7 +21,7 @@ namespace API.Controllers
 
         // GET: api/<LeaveRequestController>
         [HttpGet]
-        public async Task<ActionResult<List<LeaveRequestDto>>> Get()
+        public async Task<ActionResult<List<LeaveRequestListDto>>> Get()
         {
             var response = await _mediator.Send(new GetLeaveRequestListRequest());
             return Ok(response);

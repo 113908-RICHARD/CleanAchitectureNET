@@ -146,6 +146,28 @@ namespace Persistence.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("LeaveType");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            CreatedBy = "",
+                            DateCreated = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            DefaultDays = 10,
+                            LastModifiedBy = "",
+                            LastModifiedDate = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Name = "Vacation"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            CreatedBy = "",
+                            DateCreated = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            DefaultDays = 12,
+                            LastModifiedBy = "",
+                            LastModifiedDate = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Name = "Sick"
+                        });
                 });
 
             modelBuilder.Entity("Domain.LeaveAllocation", b =>
